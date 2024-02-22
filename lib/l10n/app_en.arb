@@ -1,0 +1,26 @@
+{
+"to_do_list" : "To Do List " ,
+"language" : " Language " ,
+"list" : " List " ,
+"setting" : " Setting " ,
+"mode" :"Mode " ,
+"english" :"English " ,
+"arabic" :"Arabic " ,
+"light_mode" :"Light Mode " ,
+"dark_mode" :"Dark Mode " ,
+"add_new_task" :"Add New Task" ,
+"edit_task" :"Edit Task " ,
+"save_changes" :"Save Changes" ,
+"select_time" :"Select Time" ,
+"enter_your_task" :"Enter Your Task " ,
+"task_details" :"Task Details " ,
+"enter_task_title" : "Enter Task Title",
+"enter_description" : "Enter Description" ,
+ "add" : "Add" ,
+ "delete" : "Delete"
+
+
+
+
+
+}

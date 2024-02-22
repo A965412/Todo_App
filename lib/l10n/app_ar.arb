@@ -1,0 +1,28 @@
+{
+"to_do_list" : "قائمه المهام " ,
+"language" : " اللغة " ,
+"mode" : "الوضع " ,
+"english" :"الانجليزيه " ,
+"list" : " القائمه " ,
+"setting" : " الاعدادات " ,
+"arabic" :"العربيه " ,
+"light_mode" :"الوضع النهاري " ,
+"dark_mode" :"الوضع الليلي " ,
+"add_new_task" :"اضافه مهمه جديده" ,
+"edit_task" :"تعديل المهمه " ,
+"save_changes" :"حفظ التغيرات" ,
+"select_time" :"اختيار الوقت" ,
+"enter_your_task" :"ادخل مهمتك " ,
+"task_details" :"تفاصيل المهمه " ,
+"enter_task_title" : "ادخل العنوان",
+"enter_description" : "ادخل الوصف" ,
+ "add" : "اضافه " ,
+  "delete" : "ازاله"
+
+
+
+
+
+
+
+}
